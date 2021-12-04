@@ -2,8 +2,9 @@ package requests
 
 import (
 	"fmt"
-	"github.com/labstack/echo/v4"
 	"testing"
+
+	"github.com/labstack/echo/v4"
 )
 
 func TestCallGet(t *testing.T) {

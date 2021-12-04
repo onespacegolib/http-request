@@ -1,4 +1,4 @@
-module git.onespace.co.th/osgolib/http-requests
+module github.com/onespacegolib/http-requests
 
 go 1.15
 
